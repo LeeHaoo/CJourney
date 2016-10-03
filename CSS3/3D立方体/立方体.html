@@ -7,17 +7,19 @@
         .box {
             width: 200px;
             height: 200px;
-            margin: 100px auto;
             position: relative;
             transform-style: preserve-3d;
             transition: all 10s;
             font-size: 50px;
             opacity: 0.5;
-
         }
 
         .box:hover {
-            transform: rotateY(360deg) rotateX(360deg);
+            animation-name: move;
+            animation-fill-mode: forwards;
+            animation-direction: alternate;
+            animation-duration:10s;
+            animation-iteration-count:1;
         }
 
         .box div {
@@ -61,6 +63,23 @@
             /*background: seagreen;*/
             transform: rotateY(90deg) translateZ(100px);
         }
+
+        @keyframes move {
+            0% {
+
+            }
+            30% {
+                transform: translateX(100%) rotateY(360deg) rotateX(360deg);
+            }
+            60% {
+                transform: translateY(500px) rotateY(-360deg) rotateX(360deg);
+            }
+            100% {
+                transform: translateX(100px) rotateY(360deg) rotateX(-360deg);
+            }
+        }
+
+
     </style>
 </head>
 <body>
