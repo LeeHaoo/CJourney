@@ -5,23 +5,126 @@
     <title></title>
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"/>
-    <style>
-        *{
-            padding: 0;
-            margin: 0;
-        }
-        div{
-            background-color: salmon;
-            max-width: 640px;
-            min-width: 320px;
-            width: 100%;
-            height: 100px;
-        }
-    </style>
+    <link rel="stylesheet" href="css/base.css"/>
+    <link rel="stylesheet" href="css/index.css"/>
+    <link rel="stylesheet" href="css/swiper-3.3.1.min.css"/>
+    <link rel="stylesheet" href="css/animate.min.css"/>
+    <script src="js/swiper.min.js"></script>
+    <script src="js/swiper.animate1.0.2.min.js"></script>
+    <script src="js/echarts.common.min.js"></script>
 </head>
 <body>
-    <div>
+<div class="jj_layout">
+    <!--搜索栏-->
+    <header class="jj_header clearfix ">
+        <div class="jj_header_box">
+            <div class="logo">
+                Logo
+            </div>
+            <form action="javascript:;">
+                <input type="text"/>
+            </form>
+            <div class="login">
+                登录
+            </div>
+        </div>
+    </header>
+
+    <!--轮播图-->
+    <div class="banner">
+        <div class="swiper-wrapper">
+            <div class="banner-slide "></div>
+            <div class="banner-slide swiper-slide"></div>
+            <div class="banner-slide swiper-slide"></div>
+            <div class="banner-slide swiper-slide"></div>
+            <div class="banner-slide swiper-slide"></div>
+            <div class="banner-slide swiper-slide"></div>
+            <div class="banner-slide "></div>
+        </div>
+        <div class="swiper-pagination"></div>
+    </div>
+
+    <!--商品区-->
+    <div class="good clearfix">
+        <div class="show">
+            <!--3D 展示-->
+            <div class="box">
+                <div class="qian"></div>
+                <div class="hou"></div>
+                <div class="zuo"></div>
+                <div class="you"></div>
+            </div>
+            <div class="f_left dir">
+                【苹果8】 降价处理,降价处理,降价处理
+            </div>
+            <div class="f_right pir">
+                ￥600
+            </div>
+        </div>
+        <div class="buy">
+            <div class="buy_btn">
+                立即购买
+            </div>
+            <div class="car_btn">
+                加入购物车
+            </div>
+            <div class="pirce_btn">
+                降价通知
+            </div>
+        </div>
+    </div>
+
+    <!--统计-->
+    <div class="tj" id="tj1">
 
     </div>
+
+    <!--快递查询-->
+    <div class="kd">
+
+    </div>
+
+    <!--详细信息-->
+    <div class="detail">
+        <div class="d1"></div>
+        <div class="d2"></div>
+        <div class="d3"></div>
+    </div>
+
+    <div class="footer">
+
+    </div>
+</div>
+<script>
+    var swiper = new Swiper('.banner',{
+        pagination: '.swiper-pagination'
+    });
+
+    // 基于准备好的dom，初始化echarts实例
+    var myChart = echarts.init(document.getElementById('tj1'));
+
+    // 指定图表的配置项和数据
+    var option = {
+        title: {
+            text: '销量'
+        },
+        tooltip: {},
+        legend: {
+
+        },
+        xAxis: {
+            data: ["ip5","ip5s","ip6","ip6s","ip7"]
+        },
+        yAxis: {},
+        series: [{
+            name: '销量',
+            type: 'bar',
+            data: [ 10, 10, 20,15,30]
+        }]
+    };
+
+    // 使用刚指定的配置项和数据显示图表。
+    myChart.setOption(option);
+</script>
 </body>
 </html>

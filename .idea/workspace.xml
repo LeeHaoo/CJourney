@@ -1,7 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1319db74-9d68-45ac-b890-46a7333ee13e" name="默认的" comment="" />
+    <list default="true" id="1319db74-9d68-45ac-b890-46a7333ee13e" name="默认的" comment="移动端轮播图">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MobileWeb/imgs/banner_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MobileWeb/imgs/banner_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MobileWeb/imgs/buy-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MobileWeb/imgs/buy-pro1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MobileWeb/imgs/cp1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MobileWeb/imgs/cp2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MobileWeb/imgs/cp3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MobileWeb/imgs/cp4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MobileWeb/imgs/cp5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MobileWeb/imgs/cp6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MobileWeb/imgs/d1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MobileWeb/imgs/d2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MobileWeb/imgs/d3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MobileWeb/imgs/delete_down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MobileWeb/imgs/delete_up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MobileWeb/imgs/detail01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MobileWeb/imgs/detail02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MobileWeb/imgs/focus-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MobileWeb/imgs/header-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MobileWeb/imgs/icon-updown-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MobileWeb/imgs/l1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MobileWeb/imgs/l2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MobileWeb/imgs/l3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MobileWeb/imgs/l4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MobileWeb/imgs/l5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MobileWeb/imgs/nav0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MobileWeb/imgs/nav1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MobileWeb/imgs/nav2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MobileWeb/imgs/nav3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MobileWeb/imgs/nav4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MobileWeb/imgs/nav5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MobileWeb/imgs/nav6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MobileWeb/imgs/nav7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MobileWeb/imgs/none.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MobileWeb/imgs/nv-fy.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MobileWeb/imgs/p1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MobileWeb/imgs/p2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MobileWeb/imgs/p3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MobileWeb/imgs/p4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MobileWeb/imgs/safe_icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MobileWeb/imgs/scroll-to-top-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MobileWeb/imgs/seckill-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MobileWeb/imgs/seckill_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MobileWeb/imgs/shop-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MobileWeb/imgs/sprites.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MobileWeb/imgs/sprits_btm_new.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MobileWeb/css/animate.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MobileWeb/css/base.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MobileWeb/js/base.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MobileWeb/js/echarts.common.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MobileWeb/css/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MobileWeb/js/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MobileWeb/css/swiper-3.3.1.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MobileWeb/js/swiper.animate1.0.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MobileWeb/js/swiper.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MobileWeb/index.html" afterPath="$PROJECT_DIR$/MobileWeb/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="CodeJourney.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,11 +79,38 @@
     <favorites_list name="CodeJourney" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="index.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MobileWeb/css/index.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="6.8881855">
+              <caret line="258" column="1" selection-start-line="258" selection-start-column="1" selection-end-line="258" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MobileWeb/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-13.333333">
+              <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <folding>
+                <element signature="n#meta#1;n#head#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#script#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
         <option value="Html5" />
       </list>
     </option>
@@ -39,6 +125,12 @@
         <option value="$PROJECT_DIR$/CSS3/Transform/Transform3D.html" />
         <option value="$PROJECT_DIR$/CSS3/3D/立方体.html" />
         <option value="$PROJECT_DIR$/CSS3/3D立方体/立方体.html" />
+        <option value="$PROJECT_DIR$/MobileWeb/js/base.js" />
+        <option value="$PROJECT_DIR$/MobileWeb/js/index.js" />
+        <option value="$PROJECT_DIR$/MobileWeb/css/base.css" />
+        <option value="$PROJECT_DIR$/TouchWater/Demo.html" />
+        <option value="$PROJECT_DIR$/MobileWeb/index.html" />
+        <option value="$PROJECT_DIR$/MobileWeb/css/index.css" />
       </list>
     </option>
   </component>
@@ -50,10 +142,10 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="753" />
+    <option name="x" value="362" />
+    <option name="y" value="55" />
+    <option name="width" value="1434" />
+    <option name="height" value="882" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -68,7 +160,7 @@
     <OptionsSetting value="true" id="更新" />
     <OptionsSetting value="true" id="状态" />
     <OptionsSetting value="true" id="编辑" />
-    <ConfirmationsSetting value="0" id="添加" />
+    <ConfirmationsSetting value="2" id="添加" />
     <ConfirmationsSetting value="0" id="移除" />
   </component>
   <component name="ProjectView">
@@ -84,8 +176,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -106,25 +196,35 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.lastSelected" value="configurable.group.appearance" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/jdM" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="FullScreen" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\GitRepository\CJourney\MobileWeb\imgs" />
+      <recent name="F:\GitRepository\CJourney\TouchWater" />
+      <recent name="F:\GitRepository\CJourney\MobileWeb\js" />
+      <recent name="F:\GitRepository\CJourney" />
       <recent name="F:\GitRepository\CodeJourney\CSS3\3D" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\GitRepository\CJourney\MobileWeb\imgs" />
+      <recent name="F:\GitRepository\CJourney\MobileWeb\js" />
+      <recent name="F:\GitRepository\CJourney\MobileWeb\css" />
       <recent name="F:\GitRepository\CodeJourney\CSS3\Transform\imgs" />
       <recent name="F:\GitRepository\CodeJourney\CSS3\Transform" />
     </key>
@@ -180,17 +280,31 @@
       <option name="number" value="Default" />
       <updated>1474709137721</updated>
     </task>
+    <task id="LOCAL-00001" summary="readme">
+      <created>1475462582180</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1475462582180</updated>
+    </task>
+    <task id="LOCAL-00002" summary="结构搭建">
+      <created>1475469230798</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1475469230798</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="753" extended-state="6" />
+    <frame x="362" y="55" width="1434" height="882" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21522693" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2786533" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32872504" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32690248" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="消息" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32933334" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32919255" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -218,16 +332,49 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="readme" />
+    <MESSAGE value="结构搭建" />
+    <MESSAGE value="移动端轮播图" />
+    <option name="LAST_COMMIT_MESSAGE" value="移动端轮播图" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CSS3/3D立方体/立方体.html">
+    <entry file="file://$PROJECT_DIR$/MobileWeb/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="114" column="0" selection-start-line="114" selection-start-column="0" selection-end-line="114" selection-end-column="0" />
+          <folding>
+            <element signature="n#meta#1;n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#script#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MobileWeb/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MobileWeb/css/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS3/3D立方体/立方体.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -248,10 +395,122 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/MobileWeb/js/base.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.017699115">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MobileWeb/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.017699115">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MobileWeb/readme.md">
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="11" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state>
+          <first_editor vertical-scroll-proportion="0.0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CSS3/3D立方体/立方体.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14545454">
+          <caret line="85" column="0" selection-start-line="85" selection-start-column="0" selection-end-line="92" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MobileWeb/js/swiper.animate1.0.2.min.js">
+      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MobileWeb/css/animate.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MobileWeb/js/swiper.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MobileWeb/css/swiper-3.3.1.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3436073">
+          <caret line="14" column="775" selection-start-line="14" selection-start-column="775" selection-end-line="14" selection-end-column="775" />
+          <folding>
+            <element signature="e#2932#3190#2" expanded="false" />
+            <element signature="e#3331#3589#2" expanded="false" />
+            <element signature="e#3709#3967#2" expanded="false" />
+            <element signature="e#4047#4305#2" expanded="false" />
+            <element signature="e#4446#4704#2" expanded="false" />
+            <element signature="e#4824#5082#2" expanded="false" />
+            <element signature="e#14025#15472#2" expanded="false" />
+            <element signature="e#15627#17071#2" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MobileWeb/js/echarts.common.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MobileWeb/imgs/d1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MobileWeb/css/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MobileWeb/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.333333">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding>
+            <element signature="n#meta#1;n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#script#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MobileWeb/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="6.8881855">
+          <caret line="258" column="1" selection-start-line="258" selection-start-column="1" selection-end-line="258" selection-end-column="1" />
           <folding />
         </state>
       </provider>
